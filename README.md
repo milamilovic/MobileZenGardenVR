@@ -3,7 +3,7 @@
 A peaceful Virtual Reality experience set in a traditional Japanese Zen garden, built with Unity for Google Cardboard.
 
 
-https://github.com/user-attachments/assets/e92ecd8c-76c5-4216-8530-cf8454de7836
+https://github.com/user-attachments/assets/1fd14fd1-0c52-4093-9452-ee77051ffa3f
 
 
 ## Description
