@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf396200624b09f42945b74a11a6bf9a
+timeCreated: 1519597424
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_clay_tile_01.mat
+  uploadId: 233712

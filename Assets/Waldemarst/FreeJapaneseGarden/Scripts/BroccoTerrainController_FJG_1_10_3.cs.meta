@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a22ec2262aad119d8b0c45f2139b1650
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 327670
+  packageName: Japanese Garden 2 Free
+  packageVersion: 1.0
+  assetPath: Assets/Waldemarst/FreeJapaneseGarden/Scripts/BroccoTerrainController_FJG_1_10_3.cs
+  uploadId: 784006

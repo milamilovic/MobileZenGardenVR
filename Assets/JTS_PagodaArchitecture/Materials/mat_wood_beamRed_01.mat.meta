@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c3fc2cc956961f4e8b9f7916daceeb0
+timeCreated: 1519655552
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_wood_beamRed_01.mat
+  uploadId: 233712

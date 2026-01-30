@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 21fda840d3513c74ca6e557ddb964179
+timeCreated: 1557932388
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Prefabs/Torii_Accessory_Shimenawa3_prefab.prefab
+  uploadId: 327368

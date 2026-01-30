@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b416b0fa77ed1840a9f280019e863ed
+timeCreated: 1549927218
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139776
+  packageName: Stone Lanterns
+  packageVersion: 1.0
+  assetPath: Assets/JTS_StoneLanterns/Prefabs/Platform_Stone_A1.prefab
+  uploadId: 294299

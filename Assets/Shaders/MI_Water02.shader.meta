@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000012527110733708361980
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301084
+  packageName: KHS - Soswaewon Garden, Damyang
+  packageVersion: 1.0
+  assetPath: Assets/Shaders/MI_Water02.shader
+  uploadId: 709398

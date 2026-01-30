@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 790878cb1c6268440808b019f8a91ea3
+timeCreated: 1519656538
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_wood_wall_01.mat
+  uploadId: 233712

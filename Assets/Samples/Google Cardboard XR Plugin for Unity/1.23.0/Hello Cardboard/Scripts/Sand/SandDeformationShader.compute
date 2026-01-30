@@ -1,0 +1,146 @@
+#pragma kernel DeformSand
+#pragma kernel SmoothSand
+#pragma kernel MarkDarkness
+#pragma kernel FadeDarkness
+
+RWTexture2D<float> HeightMap;
+RWTexture2D<float> DarknessMap;
+RWTexture2D<float> Result;
+
+float2 DeformCenter;
+float DeformRadius;
+float DeformStrength;
+float SmoothingStrength;
+float DarknessStrength;
+float DarknessFadeSpeed;
+int Resolution;
+
+[numthreads(8, 8, 1)]
+void DeformSand(uint3 id : SV_DispatchThreadID)
+{
+    if (id.x >= Resolution || id.y >= Resolution)
+        return;
+
+    // Current UV coordinates (0-1)
+    float2 uv = float2(id.x, id.y) / float(Resolution);
+    
+    // Distance from deformation center
+    float dist = distance(uv, DeformCenter);
+    
+    // Current height value
+    float currentHeight = HeightMap[id.xy];
+    
+    // Apply deformation with smooth falloff
+    if (dist < DeformRadius)
+    {
+        // Smooth falloff using cosine interpolation
+        float falloff = cos((dist / DeformRadius) * 3.14159 * 0.5);
+        falloff = falloff * falloff; // Square for smoother result
+        
+        // Lower the sand where the rake passes
+        float deformation = -DeformStrength * falloff;
+        
+        // Apply deformation
+        float newHeight = currentHeight + deformation;
+        
+        // Clamp to valid range
+        newHeight = clamp(newHeight, 0.0, 1.0);
+        
+        Result[id.xy] = newHeight;
+    }
+    else
+    {
+        // No change outside radius
+        Result[id.xy] = currentHeight;
+    }
+}
+
+[numthreads(8, 8, 1)]
+void SmoothSand(uint3 id : SV_DispatchThreadID)
+{
+    if (id.x >= Resolution || id.y >= Resolution)
+        return;
+    
+    // Skip edges to avoid sampling outside texture
+    if (id.x == 0 || id.y == 0 || id.x >= Resolution - 1 || id.y >= Resolution - 1)
+    {
+        Result[id.xy] = HeightMap[id.xy];
+        return;
+    }
+    
+    // Sample 3x3 neighborhood (box blur)
+    float sum = 0.0;
+    float count = 0.0;
+    
+    for (int y = -1; y <= 1; y++)
+    {
+        for (int x = -1; x <= 1; x++)
+        {
+            uint2 samplePos = uint2(id.x + x, id.y + y);
+            sum += HeightMap[samplePos];
+            count += 1.0;
+        }
+    }
+    
+    float averaged = sum / count;
+    float current = HeightMap[id.xy];
+    
+    // Gradually smooth towards average (simulates sand settling)
+    float targetHeight = lerp(current, averaged, SmoothingStrength);
+    targetHeight = lerp(targetHeight, 0.5, SmoothingStrength * 0.1);
+    
+    Result[id.xy] = targetHeight;
+}
+
+// Mark darkness where rake passes
+[numthreads(8, 8, 1)]
+void MarkDarkness(uint3 id : SV_DispatchThreadID)
+{
+    if (id.x >= Resolution || id.y >= Resolution)
+        return;
+
+    // Current UV coordinates (0-1)
+    float2 uv = float2(id.x, id.y) / float(Resolution);
+    
+    // Distance from deformation center
+    float dist = distance(uv, DeformCenter);
+    
+    // Current darkness value
+    float currentDarkness = DarknessMap[id.xy];
+    
+    // Mark darkness where rake passes
+    if (dist < DeformRadius)
+    {
+        // Smooth falloff
+        float falloff = cos((dist / DeformRadius) * 3.14159 * 0.5);
+        falloff = falloff * falloff;
+        
+        // Add darkness (higher value = darker)
+        float newDarkness = currentDarkness + DarknessStrength * falloff;
+        
+        // Clamp to 0-1 range
+        newDarkness = clamp(newDarkness, 0.0, 1.0);
+        
+        Result[id.xy] = newDarkness;
+    }
+    else
+    {
+        // No change outside radius
+        Result[id.xy] = currentDarkness;
+    }
+}
+
+// Fade darkness over time
+[numthreads(8, 8, 1)]
+void FadeDarkness(uint3 id : SV_DispatchThreadID)
+{
+    if (id.x >= Resolution || id.y >= Resolution)
+        return;
+    
+    float currentDarkness = DarknessMap[id.xy];
+    
+    // Gradually fade darkness back to 0
+    float newDarkness = lerp(currentDarkness, 0.0, DarknessFadeSpeed);
+    
+    Result[id.xy] = newDarkness;
+}

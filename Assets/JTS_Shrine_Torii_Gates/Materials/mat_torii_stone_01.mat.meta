@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2a9e3d38494d5b48ad7e36b18b69462
+timeCreated: 1557427508
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Materials/mat_torii_stone_01.mat
+  uploadId: 327368

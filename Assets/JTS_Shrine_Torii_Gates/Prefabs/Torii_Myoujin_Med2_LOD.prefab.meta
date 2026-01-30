@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 691c0f58f6d33194f952467197884781
+timeCreated: 1557932301
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Prefabs/Torii_Myoujin_Med2_LOD.prefab
+  uploadId: 327368

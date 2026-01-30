@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: d9641d8b9b1dab9409bcd6761371f72c
+timeCreated: 1520369223
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_LOD0
+    100002: Base_LOD1
+    100004: Base_LOD2
+    100006: Base_LOD3
+    100008: Chainbell_LOD0
+    100010: Chainbell_LOD1
+    100012: Chainbell_LOD2
+    100014: Door_EL_LOD0
+    100016: Door_ER_LOD0
+    100018: Door_NL_LOD0
+    100020: Door_NR_LOD0
+    100022: Door_SL_LOD0
+    100024: Door_SR_LOD0
+    100026: Door_WL_LOD0
+    100028: Door_WR_LOD0
+    100030: //RootNode
+    100032: Roof1_LOD0
+    100034: Roof1_LOD1
+    100036: Roof1_LOD2
+    100038: Roof1_LOD3
+    100040: Roof2_LOD0
+    100042: Roof2_LOD1
+    100044: Roof2_LOD2
+    100046: Roof2_LOD3
+    100048: Sorin_LOD0
+    100050: Sorin_LOD1
+    100052: Sorin_LOD2
+    100054: Sorin_LOD3
+    100056: Wall1_LOD0
+    100058: Wall1_LOD1
+    100060: Wall1_LOD2
+    100062: Wall1_LOD3
+    100064: Wall2_LOD0
+    100066: Wall2_LOD1
+    100068: Wall2_LOD2
+    100070: Wall2_LOD3
+    400000: Base_LOD0
+    400002: Base_LOD1
+    400004: Base_LOD2
+    400006: Base_LOD3
+    400008: Chainbell_LOD0
+    400010: Chainbell_LOD1
+    400012: Chainbell_LOD2
+    400014: Door_EL_LOD0
+    400016: Door_ER_LOD0
+    400018: Door_NL_LOD0
+    400020: Door_NR_LOD0
+    400022: Door_SL_LOD0
+    400024: Door_SR_LOD0
+    400026: Door_WL_LOD0
+    400028: Door_WR_LOD0
+    400030: //RootNode
+    400032: Roof1_LOD0
+    400034: Roof1_LOD1
+    400036: Roof1_LOD2
+    400038: Roof1_LOD3
+    400040: Roof2_LOD0
+    400042: Roof2_LOD1
+    400044: Roof2_LOD2
+    400046: Roof2_LOD3
+    400048: Sorin_LOD0
+    400050: Sorin_LOD1
+    400052: Sorin_LOD2
+    400054: Sorin_LOD3
+    400056: Wall1_LOD0
+    400058: Wall1_LOD1
+    400060: Wall1_LOD2
+    400062: Wall1_LOD3
+    400064: Wall2_LOD0
+    400066: Wall2_LOD1
+    400068: Wall2_LOD2
+    400070: Wall2_LOD3
+    2300000: Base_LOD0
+    2300002: Base_LOD1
+    2300004: Base_LOD2
+    2300006: Base_LOD3
+    2300008: Chainbell_LOD0
+    2300010: Chainbell_LOD1
+    2300012: Chainbell_LOD2
+    2300014: Door_EL_LOD0
+    2300016: Door_ER_LOD0
+    2300018: Door_NL_LOD0
+    2300020: Door_NR_LOD0
+    2300022: Door_SL_LOD0
+    2300024: Door_SR_LOD0
+    2300026: Door_WL_LOD0
+    2300028: Door_WR_LOD0
+    2300030: Roof1_LOD0
+    2300032: Roof1_LOD1
+    2300034: Roof1_LOD2
+    2300036: Roof1_LOD3
+    2300038: Roof2_LOD0
+    2300040: Roof2_LOD1
+    2300042: Roof2_LOD2
+    2300044: Roof2_LOD3
+    2300046: Sorin_LOD0
+    2300048: Sorin_LOD1
+    2300050: Sorin_LOD2
+    2300052: Sorin_LOD3
+    2300054: Wall1_LOD0
+    2300056: Wall1_LOD1
+    2300058: Wall1_LOD2
+    2300060: Wall1_LOD3
+    2300062: Wall2_LOD0
+    2300064: Wall2_LOD1
+    2300066: Wall2_LOD2
+    2300068: Wall2_LOD3
+    3300000: Base_LOD0
+    3300002: Base_LOD1
+    3300004: Base_LOD2
+    3300006: Base_LOD3
+    3300008: Chainbell_LOD0
+    3300010: Chainbell_LOD1
+    3300012: Chainbell_LOD2
+    3300014: Door_EL_LOD0
+    3300016: Door_ER_LOD0
+    3300018: Door_NL_LOD0
+    3300020: Door_NR_LOD0
+    3300022: Door_SL_LOD0
+    3300024: Door_SR_LOD0
+    3300026: Door_WL_LOD0
+    3300028: Door_WR_LOD0
+    3300030: Roof1_LOD0
+    3300032: Roof1_LOD1
+    3300034: Roof1_LOD2
+    3300036: Roof1_LOD3
+    3300038: Roof2_LOD0
+    3300040: Roof2_LOD1
+    3300042: Roof2_LOD2
+    3300044: Roof2_LOD3
+    3300046: Sorin_LOD0
+    3300048: Sorin_LOD1
+    3300050: Sorin_LOD2
+    3300052: Sorin_LOD3
+    3300054: Wall1_LOD0
+    3300056: Wall1_LOD1
+    3300058: Wall1_LOD2
+    3300060: Wall1_LOD3
+    3300062: Wall2_LOD0
+    3300064: Wall2_LOD1
+    3300066: Wall2_LOD2
+    3300068: Wall2_LOD3
+    4300000: Base_LOD0
+    4300002: Sorin_LOD0
+    4300004: Roof1_LOD0
+    4300006: Wall2_LOD0
+    4300008: Roof2_LOD0
+    4300010: Chainbell_LOD0
+    4300012: Door_NR_LOD0
+    4300014: Door_NL_LOD0
+    4300016: Door_WL_LOD0
+    4300018: Door_SL_LOD0
+    4300020: Door_ER_LOD0
+    4300022: Door_EL_LOD0
+    4300024: Wall1_LOD0
+    4300026: Door_WR_LOD0
+    4300028: Door_SR_LOD0
+    4300030: Roof2_LOD1
+    4300032: Roof2_LOD2
+    4300034: Roof2_LOD3
+    4300036: Wall2_LOD1
+    4300038: Wall2_LOD3
+    4300040: Wall1_LOD3
+    4300042: Wall1_LOD2
+    4300044: Wall1_LOD1
+    4300046: Roof1_LOD1
+    4300048: Roof1_LOD2
+    4300050: Roof1_LOD3
+    4300052: Sorin_LOD1
+    4300054: Sorin_LOD2
+    4300056: Sorin_LOD3
+    4300058: Chainbell_LOD1
+    4300060: Chainbell_LOD2
+    4300062: Base_LOD3
+    4300064: Base_LOD1
+    4300066: Base_LOD2
+    4300068: Wall2_LOD2
+    20500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Mesh/Pagoda_Tahoto_15m.fbx
+  uploadId: 233712

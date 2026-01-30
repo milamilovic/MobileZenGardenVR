@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 19843ef2c5f0ba945bc0bf45c0d8bf06
+timeCreated: 1520453890
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Shaders/td_DecalDeferred.shader
+  uploadId: 233712

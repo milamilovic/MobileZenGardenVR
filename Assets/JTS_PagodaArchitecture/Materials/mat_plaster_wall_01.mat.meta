@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea6d53e776aaa3a41be022f5508f12bc
+timeCreated: 1519654701
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_plaster_wall_01.mat
+  uploadId: 233712

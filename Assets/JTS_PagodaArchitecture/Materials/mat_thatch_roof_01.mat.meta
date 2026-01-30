@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b084e03f8bf432641bd39f418a6f0afc
+timeCreated: 1519654954
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_thatch_roof_01.mat
+  uploadId: 233712

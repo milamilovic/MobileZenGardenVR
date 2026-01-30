@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21d39c103c15e87448fc0c279be9e6c9
+timeCreated: 1519681395
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Demo/Terrain/mat_demo_sky.mat
+  uploadId: 233712

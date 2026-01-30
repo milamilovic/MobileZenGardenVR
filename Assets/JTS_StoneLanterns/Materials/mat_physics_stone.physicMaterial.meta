@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9fef3203f9e86d3439a2a80317e6fae1
+timeCreated: 1550157021
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139776
+  packageName: Stone Lanterns
+  packageVersion: 1.0
+  assetPath: Assets/JTS_StoneLanterns/Materials/mat_physics_stone.physicMaterial
+  uploadId: 294299

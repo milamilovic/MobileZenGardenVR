@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 64580f0fdf0a2574db60c39303a5e126
+timeCreated: 1549920081
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139776
+  packageName: Stone Lanterns
+  packageVersion: 1.0
+  assetPath: Assets/JTS_StoneLanterns/Materials/mat_lantern_stone_C1.mat
+  uploadId: 294299

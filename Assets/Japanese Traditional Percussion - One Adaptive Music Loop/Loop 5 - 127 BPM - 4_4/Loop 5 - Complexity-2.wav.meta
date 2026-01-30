@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: faa627a328c214a629a926df59f49b6b
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310861
+  packageName: Japanese Traditional Percussion - One Adaptive Music Loop
+  packageVersion: 1.0
+  assetPath: Assets/Japanese Traditional Percussion - One Adaptive Music Loop/Loop
+    5 - 127 BPM - 4_4/Loop 5 - Complexity-2.wav
+  uploadId: 732000

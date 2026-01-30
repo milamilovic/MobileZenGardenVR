@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f9e7f67696a34814bb127708ddde56a3
+timeCreated: 1557932309
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Prefabs/Torii_Shinmei_Med1_LOD.prefab
+  uploadId: 327368

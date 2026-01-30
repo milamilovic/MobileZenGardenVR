@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c8c279305d80a1848a94acad24374a22
+timeCreated: 1508587898
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Shaders/td_StandardPacked.shader
+  uploadId: 233712

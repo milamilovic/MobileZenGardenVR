@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0c04bc165dc0b14dab49e2840cd2b27
+timeCreated: 1519659105
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Demo/DemoScene01.unity
+  uploadId: 233712

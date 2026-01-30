@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5834b895401eb0c419b4e8cd2b92b7d1
+timeCreated: 1549922189
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139776
+  packageName: Stone Lanterns
+  packageVersion: 1.0
+  assetPath: Assets/JTS_StoneLanterns/Demo/Terrain/New Terrain.asset
+  uploadId: 294299

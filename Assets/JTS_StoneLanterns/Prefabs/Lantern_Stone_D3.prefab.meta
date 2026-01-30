@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5d96e0c96892dc34c9405833e1c52e50
+timeCreated: 1549927206
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139776
+  packageName: Stone Lanterns
+  packageVersion: 1.0
+  assetPath: Assets/JTS_StoneLanterns/Prefabs/Lantern_Stone_D3.prefab
+  uploadId: 294299

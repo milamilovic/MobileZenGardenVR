@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 918b5dcd99b86ec47b9f993f0cf60e56
+timeCreated: 1519656173
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_wood_pillar_03.mat
+  uploadId: 233712

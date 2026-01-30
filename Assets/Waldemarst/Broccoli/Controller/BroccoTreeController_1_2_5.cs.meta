@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f5074815050d00ce3859d48d8c0394e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 179492
+  packageName: Japanese Garden Pack
+  packageVersion: 1.1
+  assetPath: Assets/Waldemarst/Broccoli/Controller/BroccoTreeController_1_2_5.cs
+  uploadId: 526701

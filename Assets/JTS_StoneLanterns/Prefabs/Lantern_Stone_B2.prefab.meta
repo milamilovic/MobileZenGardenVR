@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 851422d37c5757d44a17d9feb3b6d622
+timeCreated: 1549927162
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139776
+  packageName: Stone Lanterns
+  packageVersion: 1.0
+  assetPath: Assets/JTS_StoneLanterns/Prefabs/Lantern_Stone_B2.prefab
+  uploadId: 294299

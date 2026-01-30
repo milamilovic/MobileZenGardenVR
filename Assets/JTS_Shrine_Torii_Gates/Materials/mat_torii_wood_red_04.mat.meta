@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 784e56abf6edc41489648bf27d86b087
+timeCreated: 1557427550
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Materials/mat_torii_wood_red_04.mat
+  uploadId: 327368

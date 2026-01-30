@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eddd3d04fe4b9a34cbfaf2d101c17c3e
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301084
+  packageName: KHS - Soswaewon Garden, Damyang
+  packageVersion: 1.0
+  assetPath: Assets/Shaders/UnrealCommon.cginc
+  uploadId: 709398

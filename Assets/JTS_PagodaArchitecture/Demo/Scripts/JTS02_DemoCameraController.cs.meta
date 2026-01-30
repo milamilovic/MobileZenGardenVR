@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2764d4439c139dc42ae6b683206fb230
+timeCreated: 1519662115
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Demo/Scripts/JTS02_DemoCameraController.cs
+  uploadId: 233712

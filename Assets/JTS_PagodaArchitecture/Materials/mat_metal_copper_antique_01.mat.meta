@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8cbead2f6ed70d48bef46da5f2dbb8c
+timeCreated: 1519656909
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_metal_copper_antique_01.mat
+  uploadId: 233712

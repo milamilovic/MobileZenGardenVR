@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c5a42bff143ee541b86748781b68566
+timeCreated: 1519656112
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_wood_paint_yellow_01.mat
+  uploadId: 233712

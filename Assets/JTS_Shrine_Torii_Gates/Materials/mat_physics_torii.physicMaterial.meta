@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 54c09362f4132f54892899608c6d529a
+timeCreated: 1557934775
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Materials/mat_physics_torii.physicMaterial
+  uploadId: 327368

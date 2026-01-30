@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30f6cd63e96256743b57caa8cfe62701
+timeCreated: 1519655872
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_wood_paint_green_01.mat
+  uploadId: 233712

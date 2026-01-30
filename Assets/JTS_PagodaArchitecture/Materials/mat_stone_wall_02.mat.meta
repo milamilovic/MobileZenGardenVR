@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e235b964ea4cfa4082c1880a1e97f60
+timeCreated: 1519654914
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_stone_wall_02.mat
+  uploadId: 233712

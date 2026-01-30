@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 705cc426cece971418e81d1ac6cbad7c
+timeCreated: 1519656227
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_wood_pillarRed_01.mat
+  uploadId: 233712

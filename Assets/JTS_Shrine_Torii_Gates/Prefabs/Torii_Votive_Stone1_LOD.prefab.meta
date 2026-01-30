@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe88e0b53488d1e46884c1876dc3aa88
+timeCreated: 1567003892
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Prefabs/Torii_Votive_Stone1_LOD.prefab
+  uploadId: 327368

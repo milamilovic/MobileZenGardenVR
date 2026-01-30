@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5270d2dfe53eec645a71689491b70ad7
+timeCreated: 1557932288
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Prefabs/Torii_Kuroki_Med1_LOD.prefab
+  uploadId: 327368

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 765c7649d11134342a86b9f25eb8b715
+timeCreated: 1519597307
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_clay_fired_01.mat
+  uploadId: 233712

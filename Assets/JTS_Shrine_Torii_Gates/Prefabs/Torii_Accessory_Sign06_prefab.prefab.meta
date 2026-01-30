@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a97a47db8b66c840a24f573c92e08e5
+timeCreated: 1557932403
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Prefabs/Torii_Accessory_Sign06_prefab.prefab
+  uploadId: 327368

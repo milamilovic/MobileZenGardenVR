@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b3a5b1298b1cbc42b1ddec9bcd73283
+timeCreated: 1519680197
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Demo/Terrain/DemoTerrain.asset
+  uploadId: 233712

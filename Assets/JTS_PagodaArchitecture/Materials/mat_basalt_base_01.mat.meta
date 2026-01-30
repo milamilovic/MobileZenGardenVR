@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e74a68e451e99349a6f2833a4ea65f0
+timeCreated: 1519657169
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_basalt_base_01.mat
+  uploadId: 233712

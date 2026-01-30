@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000015106020102419693723
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301084
+  packageName: KHS - Soswaewon Garden, Damyang
+  packageVersion: 1.0
+  assetPath: Assets/Shaders/M_Landscape_Inst(MID_M_Landscape_Inst_36_102184).shader
+  uploadId: 709398

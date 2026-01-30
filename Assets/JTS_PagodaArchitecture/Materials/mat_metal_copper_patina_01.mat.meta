@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76136738cd3d0f448a74949fcb04de56
+timeCreated: 1519657054
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113177
+  packageName: Pagoda Architecture
+  packageVersion: 1.0
+  assetPath: Assets/JTS_PagodaArchitecture/Materials/mat_metal_copper_patina_01.mat
+  uploadId: 233712

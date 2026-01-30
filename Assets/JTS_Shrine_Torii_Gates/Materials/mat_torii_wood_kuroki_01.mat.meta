@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 32846417c46ab3a4c801ea2d8e63f577
+timeCreated: 1557427608
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Materials/mat_torii_wood_kuroki_01.mat
+  uploadId: 327368

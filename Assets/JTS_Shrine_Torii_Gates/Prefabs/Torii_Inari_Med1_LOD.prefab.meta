@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cedd74072ef734b448efb54e00cea5d5
+timeCreated: 1557932236
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 153165
+  packageName: Shrine Torii Gate Pack
+  packageVersion: 1.0
+  assetPath: Assets/JTS_Shrine_Torii_Gates/Prefabs/Torii_Inari_Med1_LOD.prefab
+  uploadId: 327368
